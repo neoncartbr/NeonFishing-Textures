@@ -3,62 +3,62 @@ info:
 
 font_images:
   fishing_bar_0:
-    path: textures/font/fishing_bar_0.png
+    path: font/fishing_bar_0.png
     suggest_in_command: false
     y_position: 10
     scale_ratio: 1
   fishing_bar_1:
-    path: textures/font/fishing_bar_1.png
+    path: font/fishing_bar_1.png
     suggest_in_command: false
     y_position: 10
     scale_ratio: 1
   fishing_bar_2:
-    path: textures/font/fishing_bar_2.png
+    path: font/fishing_bar_2.png
     suggest_in_command: false
     y_position: 10
     scale_ratio: 1
   fishing_bar_3:
-    path: textures/font/fishing_bar_3.png
+    path: font/fishing_bar_3.png
     suggest_in_command: false
     y_position: 10
     scale_ratio: 1
   fishing_bar_4:
-    path: textures/font/fishing_bar_4.png
+    path: font/fishing_bar_4.png
     suggest_in_command: false
     y_position: 10
     scale_ratio: 1
   fishing_bar_5:
-    path: textures/font/fishing_bar_5.png
+    path: font/fishing_bar_5.png
     suggest_in_command: false
     y_position: 10
     scale_ratio: 1
   fishing_bar_6:
-    path: textures/font/fishing_bar_6.png
+    path: font/fishing_bar_6.png
     suggest_in_command: false
     y_position: 10
     scale_ratio: 1
   fishing_bar_7:
-    path: textures/font/fishing_bar_7.png
+    path: font/fishing_bar_7.png
     suggest_in_command: false
     y_position: 10
     scale_ratio: 1
   fishing_bar_8:
-    path: textures/font/fishing_bar_8.png
+    path: font/fishing_bar_8.png
     suggest_in_command: false
     y_position: 10
     scale_ratio: 1
   fishing_bar_9:
-    path: textures/font/fishing_bar_9.png
+    path: font/fishing_bar_9.png
     suggest_in_command: false
     y_position: 10
     scale_ratio: 1
   fishing_bar_10:
-    path: textures/font/fishing_bar_10.png
+    path: font/fishing_bar_10.png
     suggest_in_command: false
     y_position: 10
     scale_ratio: 1
   fishing_cursor:
-    path: textures/font/fishing_cursor.png
+    path: font/fishing_cursor.png
     suggest_in_command: false
     y_position: 14
     scale_ratio: 1
