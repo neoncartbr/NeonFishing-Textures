@@ -4,61 +4,73 @@ info:
 font_images:
   fishing_bar_0:
     path: font/fishing_bar_0.png
+    symbol: "\uE100"
     suggest_in_command: false
     y_position: 10
     scale_ratio: 20
   fishing_bar_1:
     path: font/fishing_bar_1.png
+    symbol: "\uE101"
     suggest_in_command: false
     y_position: 10
     scale_ratio: 20
   fishing_bar_2:
     path: font/fishing_bar_2.png
+    symbol: "\uE102"
     suggest_in_command: false
     y_position: 10
     scale_ratio: 20
   fishing_bar_3:
     path: font/fishing_bar_3.png
+    symbol: "\uE103"
     suggest_in_command: false
     y_position: 10
     scale_ratio: 20
   fishing_bar_4:
     path: font/fishing_bar_4.png
+    symbol: "\uE104"
     suggest_in_command: false
     y_position: 10
     scale_ratio: 20
   fishing_bar_5:
     path: font/fishing_bar_5.png
+    symbol: "\uE105"
     suggest_in_command: false
     y_position: 10
     scale_ratio: 20
   fishing_bar_6:
     path: font/fishing_bar_6.png
+    symbol: "\uE106"
     suggest_in_command: false
     y_position: 10
     scale_ratio: 20
   fishing_bar_7:
     path: font/fishing_bar_7.png
+    symbol: "\uE107"
     suggest_in_command: false
     y_position: 10
     scale_ratio: 20
   fishing_bar_8:
     path: font/fishing_bar_8.png
+    symbol: "\uE108"
     suggest_in_command: false
     y_position: 10
     scale_ratio: 20
   fishing_bar_9:
     path: font/fishing_bar_9.png
+    symbol: "\uE109"
     suggest_in_command: false
     y_position: 10
     scale_ratio: 20
   fishing_bar_10:
     path: font/fishing_bar_10.png
+    symbol: "\uE10A"
     suggest_in_command: false
     y_position: 10
     scale_ratio: 20
   fishing_cursor:
     path: font/fishing_cursor.png
+    symbol: "\uE10F"
     suggest_in_command: false
     y_position: 14
     scale_ratio: 20
