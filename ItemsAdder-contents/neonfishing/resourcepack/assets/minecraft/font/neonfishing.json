@@ -13,13 +13,13 @@
     {"type":"bitmap","file":"neonfishing:font/fishing_bar_10.png","ascent":32,"height":64,"chars":["\ue10a"]},
     {"type":"bitmap","file":"neonfishing:font/fishing_cursor.png","ascent":16,"height":32,"chars":["\ue10f"]},
     {"type":"bitmap","file":"neonfishing:font/fish_discovery.png","ascent":36,"height":48,"chars":["\ue10b"]},
-    {"type":"bitmap","file":"neonfishing:font/fish_discovery_lambari.png","ascent":24,"height":32,"chars":["\ue130"]},
-    {"type":"bitmap","file":"neonfishing:font/fish_discovery_tilapia.png","ascent":24,"height":32,"chars":["\ue131"]},
-    {"type":"bitmap","file":"neonfishing:font/fish_discovery_traira.png","ascent":24,"height":32,"chars":["\ue132"]},
-    {"type":"bitmap","file":"neonfishing:font/fish_discovery_tucuna.png","ascent":24,"height":32,"chars":["\ue133"]},
-    {"type":"bitmap","file":"neonfishing:font/fish_discovery_dourado.png","ascent":24,"height":32,"chars":["\ue134"]},
-    {"type":"bitmap","file":"neonfishing:font/fish_discovery_pirarucu.png","ascent":24,"height":32,"chars":["\ue135"]},
-    {"type":"bitmap","file":"neonfishing:font/fish_discovery_celacanto_neon.png","ascent":24,"height":32,"chars":["\ue136"]},
+    {"type":"bitmap","file":"neonfishing:font/fish_discovery_lambari.png","ascent":32,"height":32,"chars":["\ue130"]},
+    {"type":"bitmap","file":"neonfishing:font/fish_discovery_tilapia.png","ascent":32,"height":32,"chars":["\ue131"]},
+    {"type":"bitmap","file":"neonfishing:font/fish_discovery_traira.png","ascent":32,"height":32,"chars":["\ue132"]},
+    {"type":"bitmap","file":"neonfishing:font/fish_discovery_tucuna.png","ascent":32,"height":32,"chars":["\ue133"]},
+    {"type":"bitmap","file":"neonfishing:font/fish_discovery_dourado.png","ascent":32,"height":32,"chars":["\ue134"]},
+    {"type":"bitmap","file":"neonfishing:font/fish_discovery_pirarucu.png","ascent":32,"height":32,"chars":["\ue135"]},
+    {"type":"bitmap","file":"neonfishing:font/fish_discovery_celacanto_neon.png","ascent":32,"height":32,"chars":["\ue136"]},
     {"type":"space","advances":{"\ue110":-1,"\ue111":-2,"\ue112":-4,"\ue113":-8,"\ue114":-16,"\ue115":-32,"\ue116":-64,"\ue117":-128,"\ue118":-256,"\ue120":1,"\ue121":2,"\ue122":4,"\ue123":8,"\ue124":16,"\ue125":32,"\ue126":64,"\ue127":128,"\ue128":256}}
   ]
 }
